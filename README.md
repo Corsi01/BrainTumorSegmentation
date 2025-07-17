@@ -7,14 +7,14 @@ This repository provides code and resources for segmenting brain tumors using de
 - [Features](#Features)
 
 <figure>
-<img src="/DATA/channels.png" alt="Channels Image"/>
+<img src="/data/channels.png" alt="Channels Image"/>
 <figure-caption>The 4 channels representing the images modalities</figure-caption>
 </figure>
 
 </br> </br> 
 
 <figure>
-<img src="/DATA/masks.png" alt="Channels Image"/>
+<img src="/data/masks.png" alt="Channels Image"/>
 <figure-caption>The 4 channels representing the masks</figure-caption>
 </figure>
 
