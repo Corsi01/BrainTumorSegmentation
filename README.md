@@ -4,7 +4,7 @@ This repository provides code and resources for segmenting brain tumors using de
 
 ## Table of Contents
 - [Project Overview](#Project-Overview)
-- Features
+- [Features](#Features)
 
 <figure>
 <img src="/DATA/channels.png" alt="Channels Image"/>
